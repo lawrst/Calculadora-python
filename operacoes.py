@@ -9,4 +9,4 @@ class operacoes:
         pass
         
     def div(self, num1, num2):
-        return num1 / num2
+
