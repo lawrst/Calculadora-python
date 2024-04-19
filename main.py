@@ -12,13 +12,13 @@ if (op == 1):
     num2 = int(input("digite o primeiro numero para calcular: "))
     operacao = operacoes()
     resultado = operacoes.soma(num1, num2)
-    pass#metodo da soma
+    
 if (op == 2):
     num1 = int(input("digite o primeiro numero para calcular: "))
     num2 = int(input("digite o primeiro numero para calcular: "))
     operacao = operacoes()
     resultado = operacoes.sub(num1, num2)
-    pass#metodo da subtração
+    
 if (op == 3):
     pass#metodo da multiplicação
 if (op == 4):
